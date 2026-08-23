@@ -1,11 +1,11 @@
 {
-  "version": "0.6.1",
-  "notes": "v0.6.1 \u2014 Currawong \u2014 small fixes, and the first payload for the update loop",
-  "pub_date": "2026-08-23T10:07:52Z",
+  "version": "0.6.2",
+  "notes": "v0.6.2 \u2014 Dictionary from a transcript",
+  "pub_date": "2026-08-23T11:26:13Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTldzSHVHcEFZMGpBNkJSdm9QYkZyNlNxVGIvYUdQdm5ncTZzdlB2cGh5b1ZCLzZGLzJFNUYwcllBM1gwTEFaYy9LOGxnLzBNZzNaRFl2YmRWeDFPTFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDc5MDQyCWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6ClZhS2FFV3ZDZFlkbUNLWlB0TmtlSmhJODMrODlVWnhPbzRGMnFPU1hxbSsveGY2cmNVdW5MZHM5VmgxUVlFY3p4d1IxZUIva2NrcEVZYnlWT3ZyeUJ3PT0K",
-      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.6.1/Softspoken_0.6.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTmZ5RXZuZzN2aHNsYXkrQTlDWllURU9BYWFZMG9oSXlvR3JOV1Zqc1BNeWRvTG5Ldk5KOW9jTmdERmMyalpWWXkva2ZSN1BpcWZxaHhxMFBGSEp1ZVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDg0MzQ0CWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6Cnl6QW1kRkxqcUh3OHZDK3hwRWUxa25RWDM3djFzaHg3RmZUeTlHN0luWTcvOEl2aEdBdWNUWUtiWFB4SFFCeThudFNNYUdzdlhsdmg1QlVDbjFoaURnPT0K",
+      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.6.2/Softspoken_0.6.2_aarch64.app.tar.gz"
     }
   }
 }
