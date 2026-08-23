@@ -1,0 +1,11 @@
+{
+  "version": "0.0.0",
+  "notes": "Placeholder until the first Softspoken release is published.",
+  "pub_date": "2026-08-23T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://updates.softspoken.io/"
+    }
+  }
+}
