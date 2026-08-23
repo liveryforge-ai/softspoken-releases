@@ -1,11 +1,11 @@
 {
-  "version": "0.0.0",
-  "notes": "Placeholder until the first Softspoken release is published.",
-  "pub_date": "2026-08-23T00:00:00Z",
+  "version": "0.6.0",
+  "notes": "Currawong \u2014 auto-update",
+  "pub_date": "2026-08-23T06:59:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://updates.softspoken.io/"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTlJPbUh1Z1cwdUdFZlowL1MrNy9TZmxMZXp4RXcxWXBvcXVNL2RUek9xNkZpY0tBWGlCdkVpa0MxZG9GMXl2Sjc4OElqVDh1WktKcWxwcmRmRG9YdWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDY4MzQwCWZpbGU6U29mdHNwb2tlbl8wLjYuMF94NjQtc2V0dXAuZXhlCkkxU2hsV3c5SUZMTVNGMC92b3NlY1N3N2ZmUDZ3WGx3MXZ4dnoyRW5FR1dxbHdxWCthMHRXSFhCbGRaZ1hVYWhEUHM3ckNGN2pnRUZlQjQydnJ0VERBPT0K",
+      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.6.0/Softspoken_0.6.0_x64-setup.exe"
     }
   }
 }
