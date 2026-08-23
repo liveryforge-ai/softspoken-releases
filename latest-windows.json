@@ -1,11 +1,11 @@
 {
-  "version": "0.6.0",
-  "notes": "Currawong \u2014 auto-update",
-  "pub_date": "2026-08-23T06:59:39Z",
+  "version": "0.6.1",
+  "notes": "v0.6.1 \u2014 Currawong \u2014 small fixes, and the first payload for the update loop",
+  "pub_date": "2026-08-23T10:23:25Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTlJPbUh1Z1cwdUdFZlowL1MrNy9TZmxMZXp4RXcxWXBvcXVNL2RUek9xNkZpY0tBWGlCdkVpa0MxZG9GMXl2Sjc4OElqVDh1WktKcWxwcmRmRG9YdWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDY4MzQwCWZpbGU6U29mdHNwb2tlbl8wLjYuMF94NjQtc2V0dXAuZXhlCkkxU2hsV3c5SUZMTVNGMC92b3NlY1N3N2ZmUDZ3WGx3MXZ4dnoyRW5FR1dxbHdxWCthMHRXSFhCbGRaZ1hVYWhEUHM3ckNGN2pnRUZlQjQydnJ0VERBPT0K",
-      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.6.0/Softspoken_0.6.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTmYrWXhlUnBwRGs5eGJvOEdmNUNBZUt2TFZ6cmw3eHJpejNobmhReW5sSGlhNzMyMnFkOVg4Q05IZkdDWmU0TXBXVjBzSkUzYVNxTHEvdXJzQnRnaGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDgwNTc1CWZpbGU6U29mdHNwb2tlbl8wLjYuMV94NjQtc2V0dXAuZXhlCjVpUlpTU2F2OUpqTi9rYjBNTitNbjJMMUpvUTN5MHRMb3Y3UENXUHhjZjh3OGkwQXpPVWppcENqNWgzdThKMUVSM2dIbC9nYTRLbDBIb1BBRHRwcUF3PT0K",
+      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.6.1/Softspoken_0.6.1_x64-setup.exe"
     }
   }
 }
