@@ -1,11 +1,11 @@
 {
-  "version": "0.0.0",
-  "notes": "Placeholder until the first Softspoken release is published.",
-  "pub_date": "2026-08-23T00:00:00Z",
+  "version": "0.6.0",
+  "notes": "Currawong \u2014 auto-update",
+  "pub_date": "2026-08-23T06:31:32Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "",
-      "url": "https://updates.softspoken.io/"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTmMxa1c5SmVPZUtmdlZHRThuekZjM1pWcXg0bUxCb1JzK25vaVljRENxb3UzQkJRVFlKd2FpVjBFY2pBY2djem04TzkwN3drM0VSeG1XUy91bjB3bndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDY2NjIzCWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6Cm00b3R5bHp0cnExUnZoVzFSZ0FDUGorYmJ1cWwwcGpQZXV6VWZXTHNtV0dIWHR1VjJ4VUVxWFZtZVZkVGVPUFJKeHZzNE1lYStyNTJDNzh1YnY1K0NnPT0K",
+      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.6.0/Softspoken_0.6.0_aarch64.app.tar.gz"
     }
   }
 }
