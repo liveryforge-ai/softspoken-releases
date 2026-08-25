@@ -1,11 +1,11 @@
 {
-  "version": "0.6.3",
-  "notes": "v0.6.3 Currawong \u2014 Softspoken AI: the managed provider, sign-in in Rust, and the two P1 fixes",
-  "pub_date": "2026-08-25T07:39:14Z",
+  "version": "0.7.0",
+  "notes": "Fantail \u2014 Meetings you can navigate",
+  "pub_date": "2026-08-25T22:20:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTmRoMnhUVE1ZbHNicitkSlpwNy9CdXB2YnRsclhQNTRxZUhYUnpXaU04aDQ5eVJCZnNQVVlkaFY0T0RmT3JTZm1iRGtmRVFnSGZtN3YxVERCaWZkUlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjQzNTA3CWZpbGU6U29mdHNwb2tlbl8wLjYuM194NjQtc2V0dXAuZXhlClU3WnFZam9BSUJDa2FnY3ZxY0RjMUdldUR4VW9ROGlhb0plS2RNbmJHR0MycWZ6WE80V0NEL3ZqRTE2V05ocVU5bWhuK3R5QlRWS3UwbHJBUGJwQ0RnPT0K",
-      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.6.3/Softspoken_0.6.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTmN2OURMOFZlQVYyQmxnWWhjbG1VK3V0TGZDbGhVcTkyekYvMGlkek5sd3J2eHZVWkdRUWFDUHJTN09YZ3ZCWW5oUmk5ZkljcFl6SWgvMmVxM3FtZFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Njk2NDAxCWZpbGU6U29mdHNwb2tlbl8wLjcuMF94NjQtc2V0dXAuZXhlCjBneHZRMlV0amlNNUt2M1RKL3dmSVRpTXQ2WXg3SS9wckdUbWludG9uTWR6SGtqdWU3bFJkRU9UbEhIN0MzZ2h5MGx4T0RqdE1ERDdBRGg5bXpPbkJ3PT0K",
+      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.7.0/Softspoken_0.7.0_x64-setup.exe"
     }
   }
 }
