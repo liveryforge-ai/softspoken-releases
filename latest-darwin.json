@@ -1,11 +1,11 @@
 {
-  "version": "0.7.0",
-  "notes": "Fantail \u2014 Meetings you can navigate",
-  "pub_date": "2026-08-25T22:06:42Z",
+  "version": "0.7.1",
+  "notes": "Transcript honesty + small fixes",
+  "pub_date": "2026-08-26T03:27:50Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTmNJbjFTSjdtUTlZT2ZIM0RHM1lPcEZqTzVScUJLMFFlUFRvamFXRzllQTZTLzJBRkkrakI0ZHhTdVZiWXM3Y0lqWFJLOE40WXhFbHl4REVCcEMzcVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Njk1NTY5CWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6CncyRUdqaVpYQ3M5WGhJNnJyblVlWWVzTm9HZGcvTmR4a09haWJ4Vnpqb1lqcWdjSGg4d1hib21GelR6Unljb3k0KzVZTHBIT25PeVRYSzYyaTI2V0JBPT0K",
-      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.7.0/Softspoken_0.7.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTllKYmN0ZDJ3ZFhzTVpPakozMmNHMVNYb2QvUGFHLzJxQkt4S3RDMUxHQUxEazVSMmU1R053OHgvZkh1Sk9yWWlkOW5LcVgwR2FVQ0xOendnY2pSZ3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzE0ODM0CWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6CjE5VjlkaUhaUTV4R2VBWEpvWG9SOXgrdlo2cG44OWpGY3J5bjJsQll0aE1zc0xVc3gwajNMVXdOamhpSFYrR3RVWkNQZjZxV3ZSSkZKZy85V2hySENnPT0K",
+      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.7.1/Softspoken_0.7.1_aarch64.app.tar.gz"
     }
   }
 }
