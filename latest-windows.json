@@ -1,11 +1,11 @@
 {
-  "version": "0.7.4",
-  "notes": "Fantail",
-  "pub_date": "2026-08-28T05:20:48Z",
+  "version": "0.7.5",
+  "notes": "Meeting polish: type-gated diarisation, the summary gate, notifications, library management, exports, anti-AI writing",
+  "pub_date": "2026-08-29T04:24:16Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTll0TTV6TU1MT2w5UDJPSm9ldjBJTGJFQ0lLenBhQUR4MzN2YklqVE43QjE3SGxVVVBHSU1MdkxQWDVVQnE0VlNQWUpwMThvZHp6RzdXcFNMRERpU0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODk0NDE1CWZpbGU6U29mdHNwb2tlbl8wLjcuNF94NjQtc2V0dXAuZXhlClNEa3pIdXVSR3FIOWtML1BkOEJ3dS9ld0pKalRjMmNKL1hpc1k5bkcyZnc3UUc5b1NQVUR0cXZLZmNSL2hkR0VaZTBNWFNvODNlN3hpQ0ZadmRsb0FBPT0K",
-      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.7.4/Softspoken_0.7.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTlM1aUdhVGlkS20wSUdkV1VxQ2dHOUhLWDJmR3EzNFB4RnU5T1ZTM0lkS1J0VGluWU02Tms3c1ZDOHhnYXFsUjBDQTB2M3J4aWRRanRNNUhrc1dObGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTc3NDMwCWZpbGU6U29mdHNwb2tlbl8wLjcuNV94NjQtc2V0dXAuZXhlCitQOUJISkxrcU1kQ0tpalVDTjZsQllFNVE3cTl5cUZlbDh5U2Rhb3RYaVZXUzExeWxvNnRzbW5POFhDU2VsZnJibGhRdmVaYTdTVURrR0M2M0pGNUF3PT0K",
+      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.7.5/Softspoken_0.7.5_x64-setup.exe"
     }
   }
 }
