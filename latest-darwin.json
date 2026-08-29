@@ -1,11 +1,11 @@
 {
-  "version": "0.7.5",
-  "notes": "Meeting polish: type-gated diarisation, the summary gate, notifications, library management, exports, anti-AI writing",
-  "pub_date": "2026-08-29T03:40:11Z",
+  "version": "0.7.6",
+  "notes": "Fantail",
+  "pub_date": "2026-08-29T09:18:36Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTlFnRlNzajZJYlpIRkZ4aXZQanZRVTdydlE0OGwxa2dkdmovbDRWN2hhNWdWaTBXSkQvUW52aGtscEl4eU81OVdjYzFTZ1AzZENuZ0sxN0gxWFFFMXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTc0Nzg0CWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6ClBTQzh3bzAwRVIrNzhZZEZobGZIdHRkY1FEa21rN1FyTTlCN1RPK2dTYVlxZlp1SDB6bVZJOWYzUWpEMGlQNEozM3VFWmg2SnpvZlBZV252SElzRkFRPT0K",
-      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.7.5/Softspoken_0.7.5_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTlRYK2RqWlBDZUcvdEs4V3JwcW5vTGJHTDRVbEQ4N0srS1U3RzZOSDducmd2a1dOS1RCd2lCcVc5cElpWFl0bUFuQXh2YmwxcHdhclI4eFVCb0FpYXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTk1MDg1CWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6Ck1QNHV6akFzc1FxVkY2S3A0WEdpaDJSTng5TkphMi9vai9vMEJRUUpjSVROUHhmYStzd1NlSUlrQnV0cEhabTdPNXoxcDFITExUREduV0E4ejRURENBPT0K",
+      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.7.6/Softspoken_0.7.6_aarch64.app.tar.gz"
     }
   }
 }
