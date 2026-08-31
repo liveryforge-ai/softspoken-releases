@@ -1,11 +1,11 @@
 {
-  "version": "0.8.1",
-  "notes": "the stats Home: the quiet ledger, Marked for you, help v1",
-  "pub_date": "2026-08-31T02:26:01Z",
+  "version": "0.8.2",
+  "notes": "consent + sweep",
+  "pub_date": "2026-08-31T07:48:37Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTllWNitsMWo1ck9DZzFOZ05nb2s4MUQyTEtRVGhDTCtWUytXM2JhajVUSmcxNkxhbXdKMFlIOFZaQTVKUmxnbzZxdGE1NnBjY3pOdEdXZmwzb0ZFRGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTQzMTI4CWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6ClZDbzZadmxyS2Zzb01VQndiQXdZN01YaFF1U3oyK3dzTWRvazhaWU1QOGhhUTZDbi9FYXdYaktMV3F3RmxiSWRBVERrQkhSNis1QlVFUkhEeDF5SUN3PT0K",
-      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.8.1/Softspoken_0.8.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTlRNNGNISWg3aEJMVnNYTGJDRWNOZDBaSThNZTF1S2dGWWxBTmEvZHlSSi9HbUVBY3EzZndSYll4eWF3ZktEQUgwMFlXSHFPczl1a0U5dTZXR2J0R1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTYyNDg0CWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6ClhzYitueWU2cmtNWFJSZEVmZ3YvWXZHR05uenV5a1lGTXpPdkpiVXNvT3pMUUoyRmdlUkFTU1h2SEUyakVsbVJGaXJFWFJ3VDFTS0tSWURFejhZakJnPT0K",
+      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.8.2/Softspoken_0.8.2_aarch64.app.tar.gz"
     }
   }
 }
