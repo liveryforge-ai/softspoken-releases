@@ -1,11 +1,11 @@
 {
-  "version": "0.9.2",
-  "notes": "Softspoken AI sellable-correctly: tax, plans, cohort + auto-start",
-  "pub_date": "2026-09-05T03:53:28Z",
+  "version": "0.9.3",
+  "notes": "v0.9.3 Fantail",
+  "pub_date": "2026-09-06T13:43:08Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTmJNWDVCK2ZxOVl6b0hzRC9MNDRTTks0bHJKSFQrRW5wSE0yQi9VdXZRU1g0cms4WTg3RmpaYlBtVjlSeDNsanlTNGpPSnErUWdtRzY4K0dQOS93d2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTgwMzg0CWZpbGU6U29mdHNwb2tlbl8wLjkuMl94NjQtc2V0dXAuZXhlCjROK1JpL1ZNZlZDMWRrcnU0UjRlY2lCcWlvRlI1L0FCZ3dYUWtCMU92N2R1elRlSko3cGxtRUJDeGg3dFVCSmNSSk0vOFZWRHM5TjFpSDk4NVJ2UEF3PT0K",
-      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.9.2/Softspoken_0.9.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTlhxQUhsRFVFQVllU09WVkVQb2U1Rmw3NTFxdkpzNnMzK0pOSGt1eTJabTFGWUFIejVHWWxEcWFMaEsreHJBQmJad0ZkdmVDL2Mxbnp2WmNyZ3FFR3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzAyMTU1CWZpbGU6U29mdHNwb2tlbl8wLjkuM194NjQtc2V0dXAuZXhlCkhKYUpCMFNKWld0UDJjOTJQMHZQc0NRbEJ1TkxNSG9UeEZzc2IvcCtYOFJwRW5uMkNOaDZITzdlc1lYZkhUbHh5YUFEeEFRR1pCZ0pPV3ljVEwybUNRPT0K",
+      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.9.3/Softspoken_0.9.3_x64-setup.exe"
     }
   }
 }
