@@ -1,11 +1,11 @@
 {
-  "version": "0.9.3",
-  "notes": "v0.9.3 Fantail",
-  "pub_date": "2026-09-06T13:43:08Z",
+  "version": "0.9.4",
+  "notes": "Fantail",
+  "pub_date": "2026-09-08T04:39:40Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTlhxQUhsRFVFQVllU09WVkVQb2U1Rmw3NTFxdkpzNnMzK0pOSGt1eTJabTFGWUFIejVHWWxEcWFMaEsreHJBQmJad0ZkdmVDL2Mxbnp2WmNyZ3FFR3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzAyMTU1CWZpbGU6U29mdHNwb2tlbl8wLjkuM194NjQtc2V0dXAuZXhlCkhKYUpCMFNKWld0UDJjOTJQMHZQc0NRbEJ1TkxNSG9UeEZzc2IvcCtYOFJwRW5uMkNOaDZITzdlc1lYZkhUbHh5YUFEeEFRR1pCZ0pPV3ljVEwybUNRPT0K",
-      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.9.3/Softspoken_0.9.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTllHWFl4MysrVEw0L2dLNW9kL2lPWkNiYThnNGtieWlMMEZUb1pldzc2WXgrNmpqWTFZM0FNcjJ6RDhsYjMrVlQ1c2NwZkNuZnEvWFZmL0xJejhvVkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODQyMzM5CWZpbGU6U29mdHNwb2tlbl8wLjkuNF94NjQtc2V0dXAuZXhlCktKODUyWTlNVTlWRHNZcnNZRlEvbkpWYjRSZWlGaTJNRnRSNzJtYmxEelZydDNZWkZHYzdka2EreEFCejVCaEpkY212emFuWm9mVjRYMDJ3d3NENEFRPT0K",
+      "url": "https://github.com/liveryforge-ai/softspoken-releases/releases/download/v0.9.4/Softspoken_0.9.4_x64-setup.exe"
     }
   }
 }
