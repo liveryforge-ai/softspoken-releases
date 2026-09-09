@@ -1,6 +1,6 @@
 # Security policy
 
-These are the release artifacts for Softspoken ([softspoken.io](https://softspoken.io)): the
+These are the release artefacts for Softspoken ([softspoken.io](https://softspoken.io)): the
 installers and update manifests the app itself pulls from. Only the **latest release** is
 supported; the app auto-updates by default, so most installs are current.
 
